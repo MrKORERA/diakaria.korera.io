@@ -7,6 +7,7 @@ Master degree in appplied mathematic
 Clinical data manager @ Institut Gustave Roussy
 - eCRF design
 - Data cleaning
+
 Clinical data engineer @ Institut Jerôme Lejeune
 - Data monitoring
 - Build data pipelines
